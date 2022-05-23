@@ -4,3 +4,7 @@ const test1=()=>{
 
 
 test1();
+
+const newf=()=>{
+    console.log("next commit");
+}
